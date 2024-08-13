@@ -1,0 +1,14 @@
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\bin\Debug\net8.0\Celular-poo.exe
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\bin\Debug\net8.0\Celular-poo.deps.json
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\bin\Debug\net8.0\Celular-poo.runtimeconfig.json
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\bin\Debug\net8.0\Celular-poo.dll
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\bin\Debug\net8.0\Celular-poo.pdb
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\Celular-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\Celular-poo.AssemblyInfoInputs.cache
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\Celular-poo.AssemblyInfo.cs
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\Celular-poo.csproj.CoreCompileInputs.cache
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\Celular-poo.dll
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\refint\Celular-poo.dll
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\Celular-poo.pdb
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\Celular-poo.genruntimeconfig.cache
+C:\Users\Win10\OneDrive\Área de Trabalho\caique\Celular-poo\obj\Debug\net8.0\ref\Celular-poo.dll
